@@ -1,0 +1,14 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SwiftTemplate' do
+
+  use_frameworks!
+  # Pods for SwiftTemplate
+    pod 'Alamofire'
+    pod 'Material'
+    pod 'ObjectMapper'
+    pod 'SDWebImage'
+    pod 'HydraAsync'
+
+end
