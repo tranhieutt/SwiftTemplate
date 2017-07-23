@@ -1,0 +1,2 @@
+# SwiftTemplate
+Template project
